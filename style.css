@@ -1,0 +1,26 @@
+    body{
+        background-color: rgb(226, 169, 169);
+       
+ }
+    h1{
+        background-color: rgb(185, 35, 65);
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans'; 
+        text-align:center;
+        color: rgb(190, 237, 252);
+        border: rgb(0, 4, 5) solid;
+        border-radius: 25px;
+        
+    }
+    q{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+        font-size:20px; 
+        color: firebrick;
+        
+    }
+    p{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size:x-large;
+    }
+    img{
+        width: 500px;
+    }
